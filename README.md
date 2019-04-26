@@ -1,0 +1,2 @@
+# XLBreakOutToRefresh
+iOS BreakOutToRefresh使用SpriteKit为下拉刷新添加了一个好玩的小游戏，持续下拉刷新则可以继续之前的游戏进程。
